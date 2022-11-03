@@ -1,1 +1,1 @@
-print("Pozdrav iz aplikacije od Kresimir Matic")
+print("Pozdrav iz aplikacije od Kresimir Matic. Index:101")
